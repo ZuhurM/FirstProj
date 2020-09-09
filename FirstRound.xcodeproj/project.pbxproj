@@ -18,6 +18,7 @@
 		847364F2246FFD53003440B8 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847364F1246FFD53003440B8 /* CustomTableViewCell.swift */; };
 		847364F424700823003440B8 /* dataBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847364F324700823003440B8 /* dataBase.swift */; };
 		84756809245C3C4F00561989 /* ForgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84756808245C3C4F00561989 /* ForgotPasswordViewController.swift */; };
+		848439A22508D49800385200 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 848439A12508D49800385200 /* .gitignore */; };
 		8485B6E424598DC100D8BA6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485B6E324598DC100D8BA6D /* AppDelegate.swift */; };
 		8485B6E624598DC100D8BA6D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485B6E524598DC100D8BA6D /* SceneDelegate.swift */; };
 		8485B6E824598DC100D8BA6D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485B6E724598DC100D8BA6D /* ViewController.swift */; };
@@ -46,6 +47,7 @@
 		847364F1246FFD53003440B8 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		847364F324700823003440B8 /* dataBase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dataBase.swift; sourceTree = "<group>"; };
 		84756808245C3C4F00561989 /* ForgotPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPasswordViewController.swift; sourceTree = "<group>"; };
+		848439A12508D49800385200 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		8485B6E024598DC100D8BA6D /* SOS Helper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SOS Helper.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8485B6E324598DC100D8BA6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8485B6E524598DC100D8BA6D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 		8485B6D724598DC100D8BA6D = {
 			isa = PBXGroup;
 			children = (
+				848439A12508D49800385200 /* .gitignore */,
 				8485B6E224598DC100D8BA6D /* FirstRound */,
 				8485B6E124598DC100D8BA6D /* Products */,
 				F695F01B6C01761AF943A13E /* Pods */,
@@ -234,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				848439A22508D49800385200 /* .gitignore in Resources */,
 				8485B6F024598DC400D8BA6D /* LaunchScreen.storyboard in Resources */,
 				8485B6ED24598DC400D8BA6D /* Assets.xcassets in Resources */,
 				8485B6FA245997E600D8BA6D /* GoogleService-Info.plist in Resources */,

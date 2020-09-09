@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>461152531028-druae7lq4lgo3fpfu7h05qokhbigkl6u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.461152531028-druae7lq4lgo3fpfu7h05qokhbigkl6u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7Fgnkx0OZIprsBMyZLvWwtLBYH5b68XE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>461152531028</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ZM.FirstRound</string>
+	<key>PROJECT_ID</key>
+	<string>dimpolm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dimpolm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:461152531028:ios:15738174be613fe2a473c1</string>
+	<key>DATABASE_URL</key>
+	<string>https://dimpolm.firebaseio.com</string>
+</dict>
+</plist>
